@@ -2,6 +2,11 @@ body {
 	background-color: #f5d9d5;
 	font-family: "Nunito", sans-serif;
 }
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
 .navbar.navbg {
 	background-color: #ab83d0;
 	transition: 0.5s;
