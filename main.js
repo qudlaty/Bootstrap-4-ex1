@@ -4,4 +4,4 @@ $(function () {
 		let nav = $("#topnav");
 		nav.toggleClass("navbg", $(this).scrollTop() > nav.height())
 	})
-})
+});
